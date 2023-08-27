@@ -1,7 +1,5 @@
 # Summary of Contents
 
-**bad_zoom_detector** | 
-
 
 ### bad_zoom_detector.ipynb
 The challenge requires a neutral background with the fashion product positioned at the center of the image.
