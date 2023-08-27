@@ -1,6 +1,7 @@
 # Summary of Contents
 
 
+<br/><br/><br/>
 ### bad_zoom_detector.ipynb
 The challenge requires a neutral background with the fashion product positioned at the center of the image.
 
@@ -16,7 +17,8 @@ Multiple images can be generated in parallel from the inference module and this 
 ![a 'good' image passes through](assets/bad_image_2.png "A proper image passes through")
 
 
-
+<br/><br/><br/>
+<br/><br/><br/>
 
 
 ### data_exploration_and_generation.ipynb
@@ -41,7 +43,8 @@ To limit scope, this training focused on products with the caption "long sleeve 
 
 
 
-
+<br/><br/><br/>
+<br/><br/><br/>
 
 
 ### vector_search.ipynb
